@@ -1,4 +1,4 @@
-package com.coursera.algorithms.chapter.one.five.case_study.examples.assiginment;
+package com.coursera.algorithms.chapter.one.five.case_study.assiginment;
 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
